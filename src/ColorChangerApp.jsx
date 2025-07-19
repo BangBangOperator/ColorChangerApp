@@ -9,7 +9,7 @@ const ColorChangerApp = () => {
 
       {/* Color-changing box */}
       <div
-        className={`w-52 h-52 mx-auto mb-6 border-2 border-black transition-colors duration-400`}
+        className={`w-52 h-52 mb-6 border-2 border-black transition-colors duration-400`}
         style={{ backgroundColor: color }}
       ></div>
 
